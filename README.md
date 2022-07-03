@@ -7,6 +7,9 @@ GENERAL OVERVIEW:
 * Includes reporting using Mochawesome - please see the ./testreports/testresults.html for test execution results
 * Videos of test execution runs are included in the "TestVideos" folder - includes parallel tests for positive and negative test scenarios
 
+TEST EXECUTION:
+To execute tests, in terminal, Run: npm test
+
 TEST FLOW:
 1. Verify drop down menu navigation and selection
 2. Link text assertions
