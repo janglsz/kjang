@@ -17,6 +17,7 @@ POTENTIAL IMPROVEMENTS:
 * Mochawesome video recording / screen captures on test failure/success
 * Disable overriding of existing test reports
 * Chaining of class methods in the test file
+* Add a BDD framework for Gherkin syntax GIVEN-WHEN-THEN
 
 KNOWN ISSUES:
 1. Issues with Chrome:
